@@ -7,7 +7,7 @@
 <p align='center'>
    <a href="www.linkedin.com/in/josé-zacarías-flores-612a94241"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Zaka_827"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://discordapp.com/users/Z4k4#8851"><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fdiscord%3Fo%3Ddesc%26s%3D&psig=AOvVaw2dqyKfnffI9ahQX2V32avg&ust=1664599252820000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICIkNfZu_oCFQAAAAAdAAAAABAK"></a>&nbsp;&nbsp;
  </p>
 
 
