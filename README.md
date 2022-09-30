@@ -1,7 +1,7 @@
 
 
 <div align="center">
-   <h1>Hola, soy<a href="https://hemant.codes"> Zacarias</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hola, soy<a href="https://github.com/Xukay101"> Zacarias</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
 <p align='center'>
@@ -22,6 +22,5 @@
 <p align="center">
    <a href="https://twitter.com/Zaka_827"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Zaka_827?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@Zaka_827"></a>
    <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="Zacarias github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
-   <a href="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> <img alt="Zacarias github" src="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> </a>
  </p>
  
