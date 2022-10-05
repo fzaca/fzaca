@@ -33,6 +33,4 @@
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="josé-zacarías-flores-developer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/jos%C3%A9-zacar%C3%ADas-flores-developer?trk=profile-badge">José Zacarías Flores</a></div>
               
