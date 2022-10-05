@@ -1,11 +1,11 @@
 
 
 <div align="center">
-   <h1>Hola, soy Zacarias<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /> </h1>
+   <h1>Hola, soy <a href="https://github.com/Xukay101">Zacarias</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /> </h1>
 </div>
 
 <p align='center'>
-   <a href="www.linkedin.com/in/jose-zacarias-flores-developer"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/jose-zacarias-flores-developer"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Zaka_827"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://discordapp.com/users/Z4k4#8851"><img height="30" src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png"></a>&nbsp;&nbsp;
  </p>
