@@ -1,11 +1,11 @@
 
 
 <div align="center">
-   <h1>Hola, soy<a href="https://github.com/Xukay101"> Zacarias</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hola, soy<a href="https://github.com/Xukay101"> Zacarias</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /> </h1>
 </div>
 
 <p align='center'>
-   <a href="www.linkedin.com/in/josé-zacarías-flores-612a94241"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="www.linkedin.com/in/jose-zacarias-flores-developer"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Zaka_827"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://discordapp.com/users/Z4k4#8851"><img height="30" src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png"></a>&nbsp;&nbsp;
  </p>
@@ -33,3 +33,6 @@
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="josé-zacarías-flores-developer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/jos%C3%A9-zacar%C3%ADas-flores-developer?trk=profile-badge">José Zacarías Flores</a></div>
+              
