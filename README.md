@@ -16,12 +16,6 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🔧 Zacarias Flores | 💻 Python Developer | 🛸  Cordoba, ARG <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-
-
-<p align="center">
-   <a href="https://twitter.com/Zaka_827"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Zaka_827?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@Zaka_827"></a>
-   <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="Zacarias github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
- </p>
  
 <hr>
 <p align="center">
