@@ -19,7 +19,6 @@
  
 <hr>
 <p align="center">
-<img src="https://img.shields.io/badge/Data%20Science-%23F37626.svg?style=for-the-badge&logo=data&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> 
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/> 
